@@ -13,6 +13,6 @@ if(nome === ""|| nota1 === "" || nota2 === ""){
 
     var media = (valor1 + valor2) / 2;
 
-    alert("A media do aluno "+nome+": " + media)
+    alert("A media do aluno "+nome+": " + media) 
     }
 }
