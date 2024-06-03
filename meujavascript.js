@@ -1,9 +1,9 @@
 function media(){
 
 
-var nome = document.getElementById("iNome").value; 
-var nota1 = document.getElementById("iNota1").value;
-var nota2 = document.getElementById("iNota2").value;
+var nome =   document.getElementById("iNome").value; 
+var nota1 =  document.getElementById("iNota1").value;
+var nota2 =  document.getElementById("iNota2").value;
 
 if(nome === ""|| nota1 === "" || nota2 === ""){
     alert("digite todos os campos")
